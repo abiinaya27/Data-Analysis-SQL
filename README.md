@@ -1,4 +1,4 @@
-# Walmart Sales Data Analysis
+# ECOMMERCE Sales Data Analysis
 
 ## About
 
