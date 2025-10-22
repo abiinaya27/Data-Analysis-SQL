@@ -1,4 +1,4 @@
-# ECOMMERCE Sales Data Analysis
+# Data Analysis SQL
 
 ## About
 
